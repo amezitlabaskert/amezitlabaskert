@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://amezitlabaskert.github.io/amezitlabaskert/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://amezitlabaskert.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://amezitlabaskert.github.io/amezitlabaskert/</loc>
+<loc>https://amezitlabaskert.github.io/</loc>
 </url>
 <url>
-<loc>https://amezitlabaskert.github.io/amezitlabaskert/a-mezitlabas-kert-01-a-koeltoezes-2019.html</loc>
+<loc>https://amezitlabaskert.github.io/a-mezitlabas-kert-01-a-koeltoezes-2019.html</loc>
 <lastmod>2025-05-15T14:48:45+02:00</lastmod>
+</url>
+<url>
+<loc>https://amezitlabaskert.github.io/a-mezitlabas-kert-02-a-pusztitas-2020.html</loc>
+<lastmod>2025-05-15T16:01:46+02:00</lastmod>
+<image:image>
+<image:loc>https://amezitlabaskert.github.io/media/posts/2/92057058_1279999818855484_7769255208902721536_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://amezitlabaskert.github.io/media/posts/2/116432323_1367468586775273_7204392774846647369_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://amezitlabaskert.github.io/media/posts/2/103257941_1328093710712761_4312134794386805288_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>
